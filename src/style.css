@@ -172,3 +172,6 @@ img {
     font-size: smaller;
     color: #444444;
 }
+::-webkit-input-placeholder{
+    color: white;
+}
